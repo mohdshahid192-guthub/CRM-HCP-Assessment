@@ -29,7 +29,7 @@ Instead of manually clicking through complex forms, a representative can simply 
 ### **1. Clone the Repository**
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mohdshahid192-guthub/CRM-HCP-Assessment.git
 cd CRM-HCP-Assesment
 
 ```
